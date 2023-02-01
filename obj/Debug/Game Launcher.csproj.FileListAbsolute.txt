@@ -1,0 +1,15 @@
+C:\1 Programming\Projekti\Game Launcher\bin\Debug\Game Launcher.exe.config
+C:\1 Programming\Projekti\Game Launcher\bin\Debug\Game Launcher.exe
+C:\1 Programming\Projekti\Game Launcher\bin\Debug\Game Launcher.pdb
+C:\1 Programming\Projekti\Game Launcher\bin\Debug\Newtonsoft.Json.dll
+C:\1 Programming\Projekti\Game Launcher\bin\Debug\Transitions.dll
+C:\1 Programming\Projekti\Game Launcher\bin\Debug\Newtonsoft.Json.xml
+C:\1 Programming\Projekti\Game Launcher\bin\Debug\Transitions.pdb
+C:\1 Programming\Projekti\Game Launcher\obj\Debug\Game Launcher.csproj.AssemblyReference.cache
+C:\1 Programming\Projekti\Game Launcher\obj\Debug\Game_Launcher.Form1.resources
+C:\1 Programming\Projekti\Game Launcher\obj\Debug\Game_Launcher.Properties.Resources.resources
+C:\1 Programming\Projekti\Game Launcher\obj\Debug\Game Launcher.csproj.GenerateResource.cache
+C:\1 Programming\Projekti\Game Launcher\obj\Debug\Game Launcher.csproj.CoreCompileInputs.cache
+C:\1 Programming\Projekti\Game Launcher\obj\Debug\Game Launcher.csproj.CopyComplete
+C:\1 Programming\Projekti\Game Launcher\obj\Debug\Game Launcher.exe
+C:\1 Programming\Projekti\Game Launcher\obj\Debug\Game Launcher.pdb
